@@ -1,0 +1,186 @@
+.maindiv {
+	width: 1100px;	
+	height: 376px;
+	margin: 82px 115px 110px 148px;
+}
+.sec1 {
+	margin: 0 auto;
+}
+.mini {
+	color: #5863F8;
+	font-size: 14px;
+	margin-top: 82px;
+	font-family: "ALK Tall Nusxuri", sans-serif;
+}
+.main {
+	color: #000000;
+	font-size: 42px;
+	margin-right: 705px ;
+	font-family: "ALK Tall Nusxuri", sans-serif;
+
+}
+.left-box {
+	display: inline-block;
+	vertical-align: top;
+	font-family: "ALK Tall Nusxuri", sans-serif;
+}
+.block1 {
+	width: 536px;
+	height: 190px;
+	background: #F8F8F8;
+	margin-top: 50px;
+	display: inline-block;
+	vertical-align: top;
+}
+.txt1 {
+	width: 40px;
+	height: 20px;
+	font-size:14px ;
+	color:#5863F8 ;
+	margin: 37px 312px 0px 16px;
+
+}
+.txt2 {
+    width: 192px ;
+    height: 25px ;
+    font-size: 18px;
+    color: #000000;
+    margin: 0px 159px 10px 16px;
+}
+.txt3 {
+	width: 260px ;
+    height: 60px ;
+    margin: 10px 92px 36px 16px;
+    font-size: 14px;
+    color: #B1B1B1;
+    padding-right: 92px;
+    display: inline-block;
+}
+.block2 {
+	width: 536px;
+	height: 190px;
+	background: #BE2B2B;
+	margin-left: 16px;
+	margin-top: 50px;
+	margin-bottom:20px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.box2 {
+	display: inline-block;
+	vertical-align: top;
+    font-family: 'BPG Mikheil Stefane';
+}
+.lowerblock1 {
+	margin-top: 65px;
+	background: #F8F8F8;
+	width: 352px;
+	height: 148px;
+	display: inline-block;
+	vertical-align: top;
+}
+.mini2 {
+	margin-top: 102px;
+	font-family: 'Cormorant SC', serif;
+}
+.main2 {
+	font-family: 'Cormorant SC', serif;
+}
+
+.txt4 {
+   	width: 102px;
+	height: 20px;
+	font-size:14px ;
+	color:#5863F8 ;
+	margin: 23px auto 5px;
+}
+.txt5 {
+    width: 226px ;
+    height: 25px ;
+    font-size: 18px;
+    color: #000000;
+    margin: auto;
+}
+.txt6 {
+   	width: 260px ;
+    height: 42px ;
+    font-size: 14px;
+    color: #B1B1B1;
+    margin: 10px auto 23px;
+    padding-right: 46px;
+    padding-bottom: 23px;
+}
+.middleblock {
+	margin-top: 65px;
+	margin-left: 16px;
+	background: #F8F8F8;
+	width: 352px;
+	height: 148px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.maindiv2 {
+	width: 1100px;	
+	height: 537px;
+	margin: 82px 115px 110px 148px;
+}
+.mtext {
+    width: 68px;
+    height: 20px;
+    color: #5863F8;
+    margin: 23px auto 5px;
+    font-size: 14px;
+}
+.mtext2 {
+    width: 208px;
+    height: 25px;
+    color: #000000;
+    margin: 0 auto ;
+    font-size: 18px;
+}
+.mtext3 {
+    width: 260px;
+    height: 42px;
+    color: #B1B1B1;
+    margin: 10px auto 23px;
+    font-size: 14px;
+    padding-right: 46px;
+    padding-bottom: 23px;
+}
+.rightblock {
+    margin-top: 65px;
+    margin-left: 16px;
+	background: #F8F8F8;
+	width: 352px;
+	height: 148px;
+    display: inline-block;
+    vertical-align: top;
+}
+.rtext {
+    width: 48px;
+    height: 20px;
+    color: #5863F8;
+    margin: 23px auto 5px;
+    font-size: 14px;
+}
+.rtext1 {
+    width: 170px;
+    height: 25px;
+    color: #000000;
+    margin: 0 auto ;
+    font-size: 18px;
+}
+.rtext2 {
+    width: 260px;
+    height: 42px;
+    color: #B1B1B1;
+    margin: 10px auto 23px;
+    font-size: 14px;
+    padding-right: 43px;
+    padding-bottom: 23px;
+}
+.txtstyle {
+	 font-family: 'Teko';
+}
